@@ -1,3 +1,3 @@
-#Code Academy
+#Codecademy
 
-This is where the code academy nonsense will congregate.
+This is where the code academy Ruby nonsense will congregate.
