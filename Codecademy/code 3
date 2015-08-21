@@ -1,0 +1,27 @@
+#mad-libs
+
+print "What's your nickname?"
+
+nick_name = gets.chomp
+
+nick_name.capitalize!
+
+print "What's your favorite color?"
+
+fav_color = gets.chomp
+
+fav_color.capitalize!
+
+print "You come here often?"
+
+here_often = gets.chomp
+
+here_often.capitalize!
+
+print "Whatchoo doin' sweetcakes?"
+
+sweet_do = gets.chomp
+
+sweet_do.upcase!
+
+print "Whoa there #{nick_name}, don't turn #{fav_color} on me! How about you say #{here_often} to some #{sweet_do}?"
