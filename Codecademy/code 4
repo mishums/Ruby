@@ -1,0 +1,9 @@
+print "Enter a number between -1 and 10: "
+num = num.gets.chomp
+if num < 0
+    print "You picked a negative number."
+elsif num > 0
+    print "You picked a positive number."
+elsif num = 0
+    "You picked zero, didn't you? You rebel."
+end
