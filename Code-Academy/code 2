@@ -1,1 +1,19 @@
+#mad-libs
 
+print "What's your nickname?"
+
+nick_name = gets.chomp
+
+print "What's your favorite color?"
+
+fav_color = gets.chomp
+
+print "You come here often?"
+
+here_often = gets.chomp
+
+print "Whatchoo doin' sweetcakes?"
+
+sweet_do = gets.chomp
+
+print "Whoa there #{nick_name}, don't turn #{fav_color} on me! How about you say #{here_often} to some #{sweet_do}?"
